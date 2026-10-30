@@ -4,24 +4,24 @@
 
 ///////////////     Answer       /////////////////////
 
-// var fName = prompt("Enter your First Name");
-// var lName = prompt("Enter your Last Name");
-// var fullName = fName +" "+ lName;
-// alert("Hello " + fullName);
+var fName = prompt("Enter your First Name");
+var lName = prompt("Enter your Last Name");
+var fullName = fName +" "+ lName;
+alert("Hello " + fullName);
 
 
 /// 2. Take favorite mobile model input and display its length.
 
 ///////////////     Answer       /////////////////////
 
-// var mobile = prompt("Enter your Favourite Mobile name");
-// var length = mobile.length;
+var mobile = prompt("Enter your Favourite Mobile name");
+var length = mobile.length;
 
-//   document.writeln(`My Favourite Mobile is ${mobile} <br><br> Length of String is ${length} `); 
+  document.writeln(`My Favourite Mobile is ${mobile} <br><br> Length of String is ${length} `); 
 
 
 /// 3. Find and display index of letter “n” in “Pakistani”. 
-///////////////     Answer       /////////////////////
+///////////////     Answer       //////////////////////
 
 // var str= "Pakistani";
 // var indexOfN = str.indexOf("n");
